@@ -1,6 +1,6 @@
 # JaredBirchallGPT is a project where I want to learn new things and share things I know. 
-# I name it like Elon Musk right hand and most trusted financial advisor. 
-# At first I used it to train Jared model but now I'm working on development of an IDE but for AI training. 
+I name it like Elon Musk right hand and most trusted financial advisor. 
+At first I used it to train Jared model but now I'm working on development of an IDE but for AI training. 
 
 #Features on Future:
 -Save input text log to keep learning as in a chat. 
